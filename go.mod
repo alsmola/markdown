@@ -1,4 +1,4 @@
-module github.com/go-spectest/markdown
+module github.com/alsmola/markdown
 
 go 1.18
 
